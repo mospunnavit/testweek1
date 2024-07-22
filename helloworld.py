@@ -1,1 +1,1 @@
-print("HEllo Mos")
+print("HEllo Mosza")
